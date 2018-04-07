@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FiapLoginAqui</string>
+
+    <string name="facebook_app_id">192247431385315</string>
+    <string name="fb_login_protocol_scheme">fb192247431385315</string>
+
+</resources>
